@@ -1,0 +1,14 @@
+C:\Users\alexi\Desktop\RDI-projeto-aula11\bin\Debug\net10.0\RDI-projeto-aula11.exe
+C:\Users\alexi\Desktop\RDI-projeto-aula11\bin\Debug\net10.0\RDI-projeto-aula11.deps.json
+C:\Users\alexi\Desktop\RDI-projeto-aula11\bin\Debug\net10.0\RDI-projeto-aula11.runtimeconfig.json
+C:\Users\alexi\Desktop\RDI-projeto-aula11\bin\Debug\net10.0\RDI-projeto-aula11.dll
+C:\Users\alexi\Desktop\RDI-projeto-aula11\bin\Debug\net10.0\RDI-projeto-aula11.pdb
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.AssemblyInfo.cs
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.dll
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\refint\RDI-projeto-aula11.dll
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.pdb
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.genruntimeconfig.cache
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\ref\RDI-projeto-aula11.dll
