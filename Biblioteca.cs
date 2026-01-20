@@ -23,7 +23,7 @@ public class Biblioteca
     {
         foreach(Livro livro in Livros)
         {
-            Console.WriteLine($"ID: {livro.Id} - Título: {livro.Titulo} - Status: {livro.Status}");
+            Console.WriteLine($"ID: {livro.Tombo} - Título: {livro.Titulo} - Status: {livro.Status}");
         }
     }
 

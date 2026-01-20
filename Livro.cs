@@ -3,17 +3,17 @@ using System.Net;
 
 public class Livro
 {
-    public int Id {get;set;}
+    public int Tombo {get;set;}
     public string Titulo {get;set;}
     public string Status {get;set;} //Disponivel ou emprestado
     public string Locatario {get;set;}
 
-const string Disponivel = "Disponivel";
-const string Emprestado = "Emprestado";
+    const string Disponivel = "Disponivel";
+    const string Emprestado = "Emprestado";
 
-    public Livro(int id, string titulo)
+    public Livro(int tombo, string titulo)
     {
-        Id=id;
+        Tombo=tombo;
         Titulo=titulo;
         Status = Disponivel;
         Locatario = string.Empty;

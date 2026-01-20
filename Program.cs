@@ -8,7 +8,7 @@ biblioteca.CadastrarLivro(livro3);
 
 while(true){
 
-    Console.WriteLine("Bem vindo a Biblioteca Ponei!");
+    Console.WriteLine("Bem vindo a Biblioteca Moranguinho!");
 
     Console.WriteLine("Escolha uma opção:");
     Console.WriteLine("1 - Listar todos os livros");
@@ -20,6 +20,9 @@ while(true){
     if(opcaoEscolhida == 1)
     {
         biblioteca.ListarLivros();
+        Console.WriteLine("Pressione Enter para continuar...");
+        Console.ReadLine();
+        Console.Clear();
     }
     if(opcaoEscolhida == 2)
     {
@@ -32,7 +35,7 @@ while(true){
         Console.WriteLine("Por favor, escolha o livro desejado, utilizando o Id: ");
         biblioteca.ListarLivros();
         int idLivroEscolhido = int.Parse(Console.ReadLine());
-        Livro? livroEscolhido = biblioteca.Livros.Find(item => item.Id == idLivroEscolhido);
+        Livro? livroEscolhido = biblioteca.Livros.Find(item => item.Tombo == idLivroEscolhido);
 
         if (livroEscolhido == null)
         {
@@ -41,6 +44,9 @@ while(true){
         }
 
         biblioteca.EmprestarLivro(livroEscolhido, novoUsuario);
+        Console.WriteLine("Pressione Enter para continuar...");
+        Console.ReadLine();
+        Console.Clear();
     }
     if (opcaoEscolhida == 3)
     {

@@ -12,3 +12,4 @@ C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\refint\RDI-projeto-a
 C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.pdb
 C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.genruntimeconfig.cache
 C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\ref\RDI-projeto-aula11.dll
+C:\Users\alexi\Desktop\RDI-projeto-aula11\obj\Debug\net10.0\RDI-projeto-aula11.sourcelink.json
